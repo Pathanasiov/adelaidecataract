@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adelaidecataract.com.au/sitemap.xml
